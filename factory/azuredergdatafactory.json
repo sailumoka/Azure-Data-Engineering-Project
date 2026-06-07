@@ -1,0 +1,15 @@
+{
+	"name": "azuredergdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94d16295-dc47-42f6-8fcb-6934e4469422",
+		"tenantId": "187ba6d8-8e8c-468a-a87e-589277d3101d"
+	}
+}
