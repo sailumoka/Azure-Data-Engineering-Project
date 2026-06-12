@@ -6,6 +6,6 @@ We will be using Databricks to pull the data from ADLS Gen2 Bronze layer, then t
 We will be building Data Warehouse - Azure Synapse Analytics to serve the data to Data Analysts or Data Scientists.
 Power BI can be connected to the Synapse SQL Database using SQL endpoint to consume data from the external tables. This enables the creation of interactive dashboards, visualizations, and business-ready KPI reports for data-driven decision-making. 
 
-Project screenshots are documented in the below File
+Project screenshots are documented in the File - 
 [AzureDEProject1.docx](https://github.com/user-attachments/files/28874474/AzureDEProject1.docx)
 
